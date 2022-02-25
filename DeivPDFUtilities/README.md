@@ -9,10 +9,10 @@ To test any feature in this component, execute the following flow: `Work-.TestDe
 
 ## Embed a B64-encoded image into a B64-encoded PDF document
 
-### Description
+**Description**  
 Embed an image into a PDF document, these files must be encoded in Base64, you are able to choose the page number in which the image will be embedded.
 
-### Instructions
+**Instructions**  
 Select "EmbedB64ImageIntoB64PDF"
 
 ![](https://i.imgur.com/51TOwho.png)
