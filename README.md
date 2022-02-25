@@ -17,7 +17,7 @@ Select "EmbedB64ImageIntoB64PDF"
 
 ![](https://i.imgur.com/51TOwho.png)
 
-### Next, fill in the form with the values you want to test, and click on "Test it!"
+Next, fill in the form with the values you want to test, and click on "Test it!"
 
 ![](https://i.imgur.com/cjBS3iS.png)
 
